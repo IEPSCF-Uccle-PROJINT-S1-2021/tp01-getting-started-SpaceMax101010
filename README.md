@@ -9,23 +9,16 @@
 
 ## Nom
 
-Skywalker
+Merckx
 
 ## Prénom
 
-Luke
+Max
 
 ## Courte présentation
 
-Bonjour,
+Hello,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
+Je m'appelle Max, j'ai 28 ans. Je travaille en tant que développeur Java dans une petite entreprise. Je vis avec mon compagnon, un chat et un chien dans un appartement que nous venons juste de rénover. Je fais de l'improvisation théâtrale et de l'escalade (quand j'ai le temps donc pas souvent). J'aime aussi lire et jouer aux jeux vidéo.
 
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
-
-J'ai hâte d'apprendre à programmer en JavaScript.
+Je suis quelqu'un d'assez calme dans la vie sauf quand on me parle du rachat de Star Wars par Dinsey.
